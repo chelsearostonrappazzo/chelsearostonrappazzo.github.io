@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background: #fff;
-		font-family: 'Raleway', sans-serif;
+		font-family: 'PT Sans', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -103,7 +103,7 @@ input, select, textarea {
 		}
 
 	input, textarea, select {
-		font-family: 'Raleway', sans-serif;
+		font-family: 'PT Sans', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -128,12 +128,12 @@ input, select, textarea {
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
-		font-family: 'Crimson Text', serif;
+		font-family: 'Averia Serif Libre', cursive;
 	}
 
 		h2.alt {
 			color: #888;
-			font-family: 'Crimson Text', serif;
+			font-family: 'Averia Serif Libre', cursive;
 		}
 
 			h2.alt strong {
@@ -2111,6 +2111,7 @@ input, select, textarea {
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
+			font-family: 'Averia Serif Libre', cursive;
 		}
 
 		#logo p {
