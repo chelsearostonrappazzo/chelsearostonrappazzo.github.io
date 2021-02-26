@@ -1787,9 +1787,6 @@ input, select, textarea {
 			padding: 20px;
 			float: left;
 		}
-		#gallery:hover {
-			filter: blur(2px);
-		}
 
 		.image.left {
 			float: left;
