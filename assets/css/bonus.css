@@ -1,7 +1,7 @@
 #gallery {
   float: left;
   width:  50%;
-  height: 500px;
+  height: auto;
   padding: 20px;
   object-fit: cover;
   display: block;
@@ -11,9 +11,9 @@
 } 
 
 .portfolio-desc {
-  font-size: 15px;
+  font-size: 16px;
 }
 
 p {
-  font-size: 17px;
+  font-size: 18px;
 }
