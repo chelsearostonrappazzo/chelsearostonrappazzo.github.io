@@ -1781,12 +1781,7 @@ input, select, textarea {
 			
 		}
 
-		#gallery {
-			height: auto;
-			max-width: 50%;
-			padding: 20px;
-			float: left;
-		}
+	
 
 		.image.left {
 			float: left;
