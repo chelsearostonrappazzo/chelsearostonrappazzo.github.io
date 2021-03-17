@@ -1,15 +1,14 @@
 #gallery {
   float: left;
-  width:  50%;
+  width: 50%;
   height: 500px;
-  min-height: 250px;
+  min-height: 75px;
   padding: 20px;
   object-fit: cover;
   display: block;
   margin-left: auto;
   margin-right: auto;
-
-} 
+}
 
 .portfolio-desc {
   font-size: 16px;
